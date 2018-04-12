@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reklama Experience</string>
+    <string name="imageViewDescription">Изображение</string>
+
+    <string name="banner_name">Banner Activity</string>
+    <string name="interstitials_name">Interstitials Activity</string>
+    <string name="native_name">Native Activity</string>
+</resources>
